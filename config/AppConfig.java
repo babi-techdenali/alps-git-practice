@@ -1,6 +1,6 @@
 public class AppConfig {
 
     public void showModule() {
-        System.out.println("ALPS application");
+        System.out.println("ALPS application by dev-1");
     }
 }
