@@ -6,4 +6,7 @@ public class StoreService {
     public void checkStock() {
     System.out.println("Checking stock levels");
     }
+    public void GetLedger() {
+    System.out.println("Showing stock movement ledger");
+    }
 }
