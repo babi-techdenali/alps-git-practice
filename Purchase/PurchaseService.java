@@ -6,4 +6,7 @@ public class PurchaseService {
     public void selectVendor() {
     System.out.println("Selecting vendor for purchase request");
     }
+    public void showPurchaseHistory() {
+    System.out.println("Showing purchase history");
+    }
 }
